@@ -1,0 +1,1 @@
+draw_text_scribble(450,500,"[fa_center][rainbow][shake][fnt_comicOUTLINESMALL]we love you hamezz");

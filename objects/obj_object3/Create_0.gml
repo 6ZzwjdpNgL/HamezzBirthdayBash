@@ -1,0 +1,2 @@
+object = "null";
+playerfollow = false;

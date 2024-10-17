@@ -1,0 +1,1 @@
+scribble_font_bake_outline_4dir("fnt_comic", "fnt_comicOUTLINESMALL", c_black, true)

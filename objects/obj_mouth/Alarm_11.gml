@@ -1,0 +1,2 @@
+instance_destroy(obj_hamezzcutscene);
+instance_activate_object(obj_playercutscene);
